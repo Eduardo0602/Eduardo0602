@@ -1,3 +1,5 @@
+<p align="right"><b>English</b> · <a href="README.es.md">Español</a></p>
+
 <p align="center">
   <img src="assets/banner.svg" alt="Eduardo Araque · Mathematician · Statistics · Data Science" width="100%">
 </p>
@@ -103,7 +105,7 @@ I am a final-year **pure mathematics** student at Universidad Central del Ecuado
 ## Currently
 
 <!-- NOW:START · actualizar cada mes -->
-- Final year of the mathematics degree (only the thesis remains): Linear Models, Probability Theory, Optimization, Dynamical Systems, Mathematical Modeling.
+- Final year of the mathematics degree, taking Linear Models, Probability Theory, Optimization, Dynamical Systems, Mathematical Modeling.
 - Adding bootstrap variance estimation and a Quarto report to the survey-sampling project.
 - Open to **part-time or freelance remote work** in data science, statistics or math for AI training.
 <!-- NOW:END -->
@@ -113,6 +115,8 @@ I am a final-year **pure mathematics** student at Universidad Central del Ecuado
 <br>
 
 Soy matemático (último semestre, Universidad Central del Ecuador) y trabajo donde la matemática rigurosa se encuentra con datos reales. En mis prácticas en la Agencia de Regulación y Control de Hidrocarburos elaboré una metodología de pronóstico y detección de anomalías basada en SARIMAX (propuesta para sustituir la de 2017); analizo datos en R y Python (encuestas con factor de expansión, series de tiempo, modelos predictivos) y verifico cada cifra antes de entregarla. Busco trabajo de medio tiempo o freelance remoto en ciencia de datos, estadística o entrenamiento de IA en matemática.
+
+**[Leer el perfil completo en español](README.es.md)**
 
 </details>
 

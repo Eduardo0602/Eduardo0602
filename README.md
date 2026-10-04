@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eduardo-araque-j%C3%A1come-311b93235"><img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Araque-7A1F2B?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/eduardo-araque-jacome-math"><img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Araque-7A1F2B?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:eduardoaraque06@hotmail.com"><img src="https://img.shields.io/badge/Email-eduardoaraque06%40hotmail.com-7A1F2B?logo=maildotru&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Open%20to-part--time%20%C2%B7%20freelance%20%C2%B7%20remote-4A0F17" alt="Open to part-time, freelance, remote">
 </p>
